@@ -3,6 +3,8 @@ This is a minimal demo for A2HS (Add To Home Screen) on iOS
 
 https://marvinxu.github.io/pwa-demo
 
+![](https://wx3.sinaimg.cn/mw2000/43fa2c3dly1h03y8j4skbg20gg0zk1kz.gif)
+
 ## Features
 - touch icon
 - splash screen
